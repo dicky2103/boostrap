@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    font-family: "Roboto Slab", serif;
+}
+.jumbotron{
+    background-image: url(m.jpg);
+    background-size: cover;
+    height: 500px;
+  }
+  .btn-warning{
+background-color:orange;
+border-radius: 10px;
+block-size: 0px 2px black;
+  }
+.footer{
+    line-height: 50px;
+    margin-bottom: 0px;
+}
